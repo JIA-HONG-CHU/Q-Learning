@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import numpy as np
 import pandas as pd
@@ -142,7 +137,6 @@ if __name__ == "__main__":
     print(q_table)
 
 
-# In[ ]:
 
 
 
